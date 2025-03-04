@@ -1,4 +1,4 @@
-import { Property, Testimonial, TeamMember, BlogPost, Service } from "./types";
+import { Property, Testimonial, TeamMember, BlogPost, Service } from "../types";
 
 export const featuredProperties: Property[] = [
   {

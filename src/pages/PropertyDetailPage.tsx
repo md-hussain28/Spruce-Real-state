@@ -1,12 +1,12 @@
 import React, { useEffect, useState } from "react";
 import { useParams } from "react-router-dom";
-import { properties } from "../data";
+import { properties } from "../data/data";
 import { Property } from "../types";
 import PageHeader from "../components/PageHeader";
-import PropertyGallery from "../components/PropertyGallery";
-import PropertyFeatures from "../components/PropertyFeatures";
-import PropertyContactForm from "../components/PropertyContactForm";
-import SimilarProperties from "../components/SimilarProperties";
+import PropertyGallery from "../components/propertyPage/propertyDetail/PropertyGallery";
+import PropertyFeatures from "../components/propertyPage/propertyDetail/PropertyFeatures";
+import PropertyContactForm from "../components/propertyPage/propertyDetail/PropertyContactForm";
+import SimilarProperties from "../components/propertyPage/propertyDetail/SimilarProperties";
 import {
   Bed,
   Bath,
