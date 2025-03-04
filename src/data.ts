@@ -55,7 +55,7 @@ export const featuredProperties: Property[] = [
     location: "Sandton, Johannesburg",
     country: "South Africa",
     price: "$8,500/month",
-    bedrooms: 3,
+    bedrooms: 6,
     bathrooms: 3,
     area: "2,800 sq ft",
     description:
