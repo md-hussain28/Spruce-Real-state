@@ -8,7 +8,7 @@ const locations = [
     description:
       "Discover luxury properties in Nigeria's vibrant economic hub.",
     imageUrl:
-      "https://images.unsplash.com/photo-1588358524496-283d4daf9b37?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1577948000111-9c970dfe3743?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80", // Modern Lagos skyline with water view
   },
   {
     id: 2,
@@ -16,7 +16,7 @@ const locations = [
     description:
       "Explore premium real estate in Nigeria's elegant capital city.",
     imageUrl:
-      "https://images.unsplash.com/photo-1594125674956-61a9b49c8ecc?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80", // Abuja city center with modern architecture
   },
   {
     id: 3,
